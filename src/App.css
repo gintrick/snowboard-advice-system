@@ -1,9 +1,14 @@
 .root {
+  color: white;
+  font-weight: bold;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   width: 100%;
+  background-image: url('/public/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .title {
@@ -14,6 +19,10 @@
   margin-bottom: 24px;
   font-size: 40px;
   border-bottom: 4px solid #088f08;
+}
+
+.description {
+  background: gray;
 }
 
 .imgs {
@@ -27,6 +36,10 @@
 }
 
 @media screen and (max-width: 750px) {
+  .root {
+    background-image: none;
+    background: #a9ceec;
+  }
   .title {
     font-size: 18px;
     margin-top: 24px;
@@ -42,6 +55,11 @@
   }
 
   .img {
+    width: calc(100% - 48px);
+  }
+
+  .description {
+    font-size: 14px;
     width: calc(100% - 48px);
   }
 }

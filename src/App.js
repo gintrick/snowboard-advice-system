@@ -9,7 +9,7 @@ function App() {
         <img className='img' src='/cap_2.PNG' alt='cap2' />
       </div>
       <div className='title'>料金・サービス</div>
-      <div>
+      <div className='description'>
         <li>
           お客様が映っているのスノーボードの追いどり動画を公式LINEに送っていただきます。
         </li>
