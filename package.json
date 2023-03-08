@@ -1,7 +1,7 @@
 {
   "name": "snowboard-advice-system",
   "version": "0.1.0",
-  "homepage": "https://gintrick.github.io/snowboard-advice-system",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -15,10 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "rm": "rm -rf docs",
-    "mv": "mv build docs",
-    "deploy": "npm run rm && npm run build && npm run mv"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
