@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/snowboard-advice-system/static/css/main.39f8c900.css",
+    "main.js": "/snowboard-advice-system/static/js/main.bf34bb82.js",
+    "static/js/787.38bcc5d3.chunk.js": "/snowboard-advice-system/static/js/787.38bcc5d3.chunk.js",
+    "static/media/background.jpg": "/snowboard-advice-system/static/media/background.cfa5887a1bd3bc773d90.jpg",
+    "index.html": "/snowboard-advice-system/index.html",
+    "main.39f8c900.css.map": "/snowboard-advice-system/static/css/main.39f8c900.css.map",
+    "main.bf34bb82.js.map": "/snowboard-advice-system/static/js/main.bf34bb82.js.map",
+    "787.38bcc5d3.chunk.js.map": "/snowboard-advice-system/static/js/787.38bcc5d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39f8c900.css",
+    "static/js/main.bf34bb82.js"
+  ]
+}
