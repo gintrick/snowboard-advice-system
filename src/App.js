@@ -38,12 +38,11 @@ function App() {
         <div className='title'>料金・サービス</div>
         <div className='description'>
           <li>
-            お客様が映っているのスノーボードの追いどり動画を公式LINEに送っていただきます。
+            お客様が映っているスノーボードの追いどり動画を公式LINE
+            Botに送っていただきます
           </li>
           <li>一回投稿につき、300円(税込)かかります</li>
-          <li>
-            投稿された動画に対して、インストラクターがアドバイスを返します
-          </li>
+          <li>投稿された動画に対して、解説とアドバイスを返します</li>
         </div>
         <div className='title'>登録はコチラから</div>
         <div className='imgs'>
@@ -51,8 +50,15 @@ function App() {
         </div>
       </div>
       <div className='footer'>
+        <a
+          className='footerLink'
+          href='https://gintrick.com/'
+          target='_blank'
+          rel='noreferrer'
+        >
+          株式会社GinTrick
+        </a>
         <div className='footerContent'>お問い合わせ: gin@gintrick.com</div>
-        <div className='footerContent'>会社概要: https://gintrick.com</div>
       </div>
     </>
   );
