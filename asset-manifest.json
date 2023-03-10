@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/snowboard-advice-system/static/css/main.39f8c900.css",
-    "main.js": "/snowboard-advice-system/static/js/main.d47c72cb.js",
+    "main.css": "/snowboard-advice-system/static/css/main.96089b37.css",
+    "main.js": "/snowboard-advice-system/static/js/main.3d794da4.js",
     "static/js/787.38bcc5d3.chunk.js": "/snowboard-advice-system/static/js/787.38bcc5d3.chunk.js",
     "static/media/background.jpg": "/snowboard-advice-system/static/media/background.cfa5887a1bd3bc773d90.jpg",
     "static/media/cap_1.PNG": "/snowboard-advice-system/static/media/cap_1.38b06c307e3968226bcd.PNG",
@@ -10,12 +10,12 @@
     "static/media/apple-touch-icon.png": "/snowboard-advice-system/static/media/apple-touch-icon.f40b7f9dac4977259709.png",
     "static/media/safari-pinned-tab.svg": "/snowboard-advice-system/static/media/safari-pinned-tab.e0dfa98d4ddd30933308bf6eba83d911.svg",
     "index.html": "/snowboard-advice-system/index.html",
-    "main.39f8c900.css.map": "/snowboard-advice-system/static/css/main.39f8c900.css.map",
-    "main.d47c72cb.js.map": "/snowboard-advice-system/static/js/main.d47c72cb.js.map",
+    "main.96089b37.css.map": "/snowboard-advice-system/static/css/main.96089b37.css.map",
+    "main.3d794da4.js.map": "/snowboard-advice-system/static/js/main.3d794da4.js.map",
     "787.38bcc5d3.chunk.js.map": "/snowboard-advice-system/static/js/787.38bcc5d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39f8c900.css",
-    "static/js/main.d47c72cb.js"
+    "static/css/main.96089b37.css",
+    "static/js/main.3d794da4.js"
   ]
 }
