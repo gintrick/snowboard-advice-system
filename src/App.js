@@ -30,6 +30,7 @@ function App() {
       </head>
 
       <div className='root'>
+        <div className='caption'>スノボ動画アドバイスシステム β</div>
         <div className='title'>レッスン不要でスノボが上達！</div>
         <div className='imgs'>
           <img className='img' src={cap1} alt='cap1' />
@@ -47,6 +48,11 @@ function App() {
         <div className='title'>登録はコチラから</div>
         <div className='imgs'>
           <img className='img' src={qr} alt='qr' />
+        </div>
+        <div className='linkBg'>
+          <a href='https://lin.ee/vHeWHqf' target='_blank' rel='noreferrer'>
+            https://lin.ee/vHeWHqf
+          </a>
         </div>
       </div>
       <div className='footer'>
