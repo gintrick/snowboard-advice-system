@@ -36,13 +36,12 @@ function App() {
           <img className='img' src={cap1} alt='cap1' />
           <img className='img' src={cap2} alt='cap2' />
         </div>
-        <div className='title'>料金・サービス</div>
+        <div className='title'>サービス内容</div>
         <div className='description'>
           <li>
             お客様が映っているスノーボードの追いどり動画を公式LINE
             Botに送っていただきます
           </li>
-          <li>一回投稿につき、300円(税込)かかります</li>
           <li>投稿された動画に対して、解説とアドバイスを返します</li>
         </div>
         <div className='title'>登録はコチラから</div>
