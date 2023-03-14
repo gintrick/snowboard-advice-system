@@ -30,7 +30,7 @@ function App() {
       </head>
 
       <div className='root'>
-        <div className='caption'>スノボ動画アドバイスシステム β</div>
+        <div className='caption'>スノボ動画アドバイスシステム</div>
         <div className='title'>レッスン不要でスノボが上達！</div>
         <div className='imgs'>
           <img className='img' src={cap1} alt='cap1' />
